@@ -29,11 +29,3 @@ C Cloudflare Firebase Google Cloud Oracle Python JavaScript Java HTML5 C++ CSS3 
 
 
 
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-
-Hey👋, Can you help us to grow by sharing?
-
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
