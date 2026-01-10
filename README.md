@@ -1,17 +1,3 @@
-Want a crazy good website? Let's Discuss!
-
-GPRM
-
-Support us
-◄ Go Back
-Your Awesome Profile is ready !
-
-Copy Code
-Download Markdown File
-Create New
-Need help regarding this? Click here to watch Video.
-PREVIEW
-
 💫 About Me:
 🔭 I’m currently working on: BAYMAX (Python-based AI Assistant) and a Smart Parking System (SmartPark).
 
