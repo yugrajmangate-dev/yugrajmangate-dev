@@ -14,16 +14,9 @@
 Instagram LinkedIn Reddit X Codepen email
 
  Tech Stack:
-C Cloudflare Firebase Google Cloud Oracle Python JavaScript Java HTML5 C++ CSS3 AWS Vercel Netlify Azure Bootstrap React NodeJS NPM Express.js OpenCV TailwindCSS MySQL MongoDB Firebase SQLite Adobe Photoshop Adobe Illustrator Canva Figma NumPy Pandas scikit-learn TensorFlow Git GitHub Arduino Postman Steam Cisco Epic Games
+C Cloudflare Firebase Google Cloud Oracle Python JavaScript Java HTML5 C++ CSS3 AWS Vercel Netlify Azure Bootstrap React NodeJS NPM Express.js OpenCV TailwindCSS MySQL MongoDB Firebase SQLite Adobe Photoshop Adobe Illustrator Canva Figma NumPy Pandas scikit-learn TensorFlow Git GitHub Arduino Postman Steam Cisco Epic Games.
 
- GitHub Stats:
-
-
-
-
-
-
- Random Dev Quote
+Automate all the things. DevOps: Culture, Automation, Lean, Measurement, Sharing.
 
 
 
