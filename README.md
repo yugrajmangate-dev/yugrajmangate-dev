@@ -5,8 +5,8 @@
 Backend & AI/ML engineer with a security-first lens — currently interning, running freelance engineering through **YECPL**, and playing CTFs with **ShunyaShield Cybersecurity Club**.
 
 **Building now**
--  [LookIn](https://github.com/yugrajmangate-dev/LookIn) — cloud-based AI attendance system: FastAPI + Next.js, Supabase, real-time face detection (HOG + 128-d encoding)
--  Backend/AI systems for enterprise security & compliance clients (Spring Boot, React, AWS)
+- 🔍 [LookIn](https://github.com/yugrajmangate-dev/LookIn) — cloud-based AI attendance system: FastAPI + Next.js, Supabase, real-time face detection (HOG + 128-d encoding)
+- 🛡️ Backend/AI systems for enterprise security & compliance clients (Spring Boot, React, AWS)
 
 **Cybersecurity**
 🥇 Ciphathon 2026 · 🥈 CUK AIthon · 5th, Cyberon · IEEE member
@@ -16,6 +16,6 @@ Python · TypeScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL
 
 **Open to:** backend systems, applied ML, or security tooling collabs in Python/TypeScript
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugrajmangate-dev&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yugrajmangate-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
 📫 [yugraj.in](https://yugraj.in) · [LinkedIn](https://linkedin.com/in/yugrajmangate)
