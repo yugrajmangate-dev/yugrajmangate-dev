@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yugrajmangate-dev/yugrajmangate-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yugrajmangate-dev/yugrajmangate-dev/output/github-snake.svg" />
-  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/yugrajmangate-dev/yugrajmangate-dev/output/github-snake.svg" />
+  <img alt="snake contribution animation" width="100%" src="https://raw.githubusercontent.com/yugrajmangate-dev/yugrajmangate-dev/output/github-snake.svg" />
 </picture>
 
 ### Hey, I'm Yugraj 👋
