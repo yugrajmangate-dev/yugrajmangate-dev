@@ -1,23 +1,21 @@
- About Me:
- I’m currently working on: BAYMAX (Python-based AI Assistant) and a Smart Parking System (SmartPark).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%26+AI%2FML+Engineer;Security-first+full-stack+dev;Building+LookIn)](https://git.io/typing-svg)
 
- I’m looking to collaborate on: Open Source Python or JavaScript projects.
+### Hey, I'm Yugraj 👋
 
- I’m looking for help with: Optimizing back-end logic for web applications.
+Backend & AI/ML engineer with a security-first lens — currently interning, running freelance engineering through **YECPL**, and playing CTFs with **ShunyaShield Cybersecurity Club**.
 
- I’m currently learning: Object-Oriented Programming deep dives and Firebase integration.
+**Building now**
+- 🔍 [LookIn](https://github.com/yugrajmangate-dev/LookIn) — cloud-based AI attendance system: FastAPI + Next.js, Supabase, real-time face detection (HOG + 128-d encoding)
+- 🛡️ Backend/AI systems for enterprise security & compliance clients (Spring Boot, React, AWS)
 
- Ask me about: Web Development, Stack Data Structures, and Cybersecurity basics.
+**Cybersecurity**
+🥇 Ciphathon 2026 · 🥈 CUK AIthon · 5th, Cyberon · IEEE member
 
+**Core stack**
+Python · TypeScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL/Supabase · AWS · Git
 
- Socials:
-Instagram LinkedIn Reddit X Codepen email
+**Open to:** backend systems, applied ML, or security tooling collabs in Python/TypeScript
 
- Tech Stack:
-C Cloudflare Firebase Google Cloud Oracle Python JavaScript Java HTML5 C++ CSS3 AWS Vercel Netlify Azure Bootstrap React NodeJS NPM Express.js OpenCV TailwindCSS MySQL MongoDB Firebase SQLite Adobe Photoshop Adobe Illustrator Canva Figma NumPy Pandas scikit-learn TensorFlow Git GitHub Arduino Postman Steam Cisco Epic Games.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugrajmangate-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-Automate all the things. DevOps: Culture, Automation, Lean, Measurement, Sharing.
-
-
-
-
+📫 [yugraj.in](https://yugraj.in) · [LinkedIn](https://linkedin.com/in/yugrajmangate)
