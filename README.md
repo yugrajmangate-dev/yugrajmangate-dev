@@ -16,7 +16,7 @@
 
 ### Hey, I'm Yugraj 👋
 
-Backend & AI/ML engineer with a security-first lens — currently interning, running freelance engineering through **YECPL**, and playing CTFs with **ShunyaShield Cybersecurity Club**.
+Backend & AI/ML engineer.
 
 **Building now**
 - 🔍 [LookIn](https://github.com/yugrajmangate-dev/LookIn) — cloud-based AI attendance system: FastAPI + Next.js, Supabase, real-time face detection (HOG + 128-d encoding)
